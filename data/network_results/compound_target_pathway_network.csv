@@ -1,0 +1,180 @@
+compound,target,pathway,target_class
+quercetin,ACTB,Adherens junction,DRG
+quercetin,ACTB,Amyotrophic lateral sclerosis,DRG
+quercetin,ACTB,Apoptosis,DRG
+quercetin,ACY1,Arginine biosynthesis,FDR-DEG+Nominal-DEG
+quercetin,ANAPC1,Cell cycle,FDR-DEG+Nominal-DEG
+quercetin,ANAPC1,Human T-cell leukemia virus 1 infection,FDR-DEG+Nominal-DEG
+quercetin,ANAPC1,Oocyte meiosis,FDR-DEG+Nominal-DEG
+quercetin,AOC3,"Glycine, serine and threonine metabolism",FDR-DEG+Nominal-DEG
+quercetin,AOC3,Phenylalanine metabolism,FDR-DEG+Nominal-DEG
+quercetin,AOC3,Tyrosine metabolism,FDR-DEG+Nominal-DEG
+quercetin,ATF4,Adrenergic signaling in cardiomyocytes,DRG
+quercetin,ATF4,Alcoholism,DRG
+quercetin,ATF4,Aldosterone synthesis and secretion,DRG
+quercetin,BAK1,Apoptosis,DRG
+quercetin,BAK1,Basal cell carcinoma,DRG
+quercetin,BAK1,Breast cancer,DRG
+quercetin,BMP4,Basal cell carcinoma,FDR-DEG+Nominal-DEG
+quercetin,BMP4,Cytokine-cytokine receptor interaction,FDR-DEG+Nominal-DEG
+quercetin,BMP4,Fluid shear stress and atherosclerosis,FDR-DEG+Nominal-DEG
+quercetin,CD2AP,Bacterial invasion of epithelial cells,DRG
+quercetin,CDK2,Cell cycle,FDR-DEG+Nominal-DEG
+quercetin,CDK2,Cellular senescence,FDR-DEG+Nominal-DEG
+quercetin,CDK2,Cushing syndrome,FDR-DEG+Nominal-DEG
+quercetin,CEL,Fat digestion and absorption,FDR-DEG+Nominal-DEG
+quercetin,CEL,Glycerolipid metabolism,FDR-DEG+Nominal-DEG
+quercetin,CEL,Pancreatic secretion,FDR-DEG+Nominal-DEG
+quercetin,DDIT3,Alzheimer disease,FDR-DEG+Nominal-DEG
+quercetin,DDIT3,Amyotrophic lateral sclerosis,FDR-DEG+Nominal-DEG
+quercetin,DDIT3,Apoptosis,FDR-DEG+Nominal-DEG
+quercetin,EI24,p53 signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,FBXW7,Ubiquitin mediated proteolysis,FDR-DEG+Nominal-DEG
+quercetin,FLNA,Focal adhesion,DRG+Nominal-DEG
+quercetin,FLNA,MAPK signaling pathway,DRG+Nominal-DEG
+quercetin,FLNA,Proteoglycans in cancer,DRG+Nominal-DEG
+quercetin,FLNB,Focal adhesion,DRG
+quercetin,FLNB,MAPK signaling pathway,DRG
+quercetin,FLNB,Proteoglycans in cancer,DRG
+quercetin,FXYD2,Adrenergic signaling in cardiomyocytes,FDR-DEG+Nominal-DEG
+quercetin,FXYD2,Aldosterone-regulated sodium reabsorption,FDR-DEG+Nominal-DEG
+quercetin,FXYD2,Bile secretion,FDR-DEG+Nominal-DEG
+quercetin,G6PD,Central carbon metabolism in cancer,DRG
+quercetin,G6PD,Diabetic cardiomyopathy,DRG
+quercetin,G6PD,Glutathione metabolism,DRG
+quercetin,GAL3ST1,Ether lipid metabolism,FDR-DEG+Nominal-DEG
+quercetin,GAL3ST1,Sphingolipid metabolism,FDR-DEG+Nominal-DEG
+quercetin,GYS1,AMPK signaling pathway,DRG
+quercetin,GYS1,Diabetic cardiomyopathy,DRG
+quercetin,GYS1,Glucagon signaling pathway,DRG
+quercetin,IL1R2,Amoebiasis,FDR-DEG+Nominal-DEG
+quercetin,IL1R2,Cytokine-cytokine receptor interaction,FDR-DEG+Nominal-DEG
+quercetin,IL1R2,Fluid shear stress and atherosclerosis,FDR-DEG+Nominal-DEG
+quercetin,IQGAP1,Adherens junction,DRG
+quercetin,IQGAP1,Proteoglycans in cancer,DRG
+quercetin,IQGAP1,Regulation of actin cytoskeleton,DRG
+quercetin,ITPR1,Aldosterone synthesis and secretion,FDR-DEG+Nominal-DEG
+quercetin,ITPR1,Alzheimer disease,FDR-DEG+Nominal-DEG
+quercetin,ITPR1,Apelin signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,MAP3K1,GnRH signaling pathway,Hub+FDR-DEG+Nominal-DEG
+quercetin,MAP3K1,"Growth hormone synthesis, secretion and action",Hub+FDR-DEG+Nominal-DEG
+quercetin,MAP3K1,Hepatitis B,Hub+FDR-DEG+Nominal-DEG
+quercetin,MAP3K3,GnRH signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,MAP3K3,Human T-cell leukemia virus 1 infection,FDR-DEG+Nominal-DEG
+quercetin,MAP3K3,MAPK signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,MAPK8,AGE-RAGE signaling pathway in diabetic complications,FDR-DEG+Nominal-DEG
+quercetin,MAPK8,Adipocytokine signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,MAPK8,Alzheimer disease,FDR-DEG+Nominal-DEG
+quercetin,MPZ,Cell adhesion molecules,FDR-DEG+Nominal-DEG
+quercetin,MYH9,Pathogenic Escherichia coli infection,DRG
+quercetin,MYH9,Regulation of actin cytoskeleton,DRG
+quercetin,MYH9,Tight junction,DRG
+quercetin,NCKAP1,Pathogenic Escherichia coli infection,DRG
+quercetin,NCKAP1,Regulation of actin cytoskeleton,DRG
+quercetin,NCKAP1,Salmonella infection,DRG
+quercetin,NCOA2,Estrogen signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,NCOA2,Thyroid hormone signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,NCOR1,Thyroid hormone signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,NCOR1,Transcriptional misregulation in cancer,FDR-DEG+Nominal-DEG
+quercetin,NDUFS1,Alzheimer disease,DRG
+quercetin,NDUFS1,Amyotrophic lateral sclerosis,DRG
+quercetin,NDUFS1,Diabetic cardiomyopathy,DRG
+quercetin,NUMB,Notch signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,NUP50,Amyotrophic lateral sclerosis,FDR-DEG+Nominal-DEG
+quercetin,NUP50,RNA transport,FDR-DEG+Nominal-DEG
+quercetin,PAK1,Axon guidance,FDR-DEG+Nominal-DEG
+quercetin,PAK1,C-type lectin receptor signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,PAK1,Chemokine signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,PGD,Glutathione metabolism,DRG
+quercetin,PGD,Pentose phosphate pathway,DRG
+quercetin,PMAIP1,Apoptosis,FDR-DEG+Nominal-DEG
+quercetin,PMAIP1,Colorectal cancer,FDR-DEG+Nominal-DEG
+quercetin,PMAIP1,Pathways in cancer,FDR-DEG+Nominal-DEG
+quercetin,PPP3CA,Alzheimer disease,FDR-DEG+Nominal-DEG
+quercetin,PPP3CA,Amphetamine addiction,FDR-DEG+Nominal-DEG
+quercetin,PPP3CA,Amyotrophic lateral sclerosis,FDR-DEG+Nominal-DEG
+quercetin,PRDX1,Amoebiasis,DRG
+quercetin,PRDX1,Peroxisome,DRG
+quercetin,RAB11FIP1,Endocytosis,FDR-DEG+Nominal-DEG
+quercetin,RAB8B,Tight junction,FDR-DEG+Nominal-DEG
+quercetin,RECK,MicroRNAs in cancer,FDR-DEG+Nominal-DEG
+quercetin,SIRT1,AMPK signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,SIRT1,Amphetamine addiction,FDR-DEG+Nominal-DEG
+quercetin,SIRT1,Cellular senescence,FDR-DEG+Nominal-DEG
+quercetin,SLC2A1,Adipocytokine signaling pathway,DRG
+quercetin,SLC2A1,Bile secretion,DRG
+quercetin,SLC2A1,Central carbon metabolism in cancer,DRG
+quercetin,SLC3A2,Ferroptosis,DRG
+quercetin,SLC3A2,Protein digestion and absorption,DRG
+quercetin,SLC3A2,mTOR signaling pathway,DRG
+quercetin,SLC7A11,Ferroptosis,DRG
+quercetin,SOAT1,Cholesterol metabolism,FDR-DEG+Nominal-DEG
+quercetin,SOAT1,Steroid biosynthesis,FDR-DEG+Nominal-DEG
+quercetin,TALDO1,Pentose phosphate pathway,DRG
+quercetin,TFAM,Apelin signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,TFAM,Huntington disease,FDR-DEG+Nominal-DEG
+quercetin,TKT,Pentose phosphate pathway,DRG
+quercetin,TRAP1,Parkinson disease,FDR-DEG+Nominal-DEG
+quercetin,TRAP1,Pathways of neurodegeneration,FDR-DEG+Nominal-DEG
+quercetin,TXNRD1,Hepatocellular carcinoma,DRG
+quercetin,TXNRD1,Pathways in cancer,DRG
+quercetin,TXNRD1,Selenocompound metabolism,DRG
+quercetin,VAV2,B cell receptor signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,VAV2,Chemokine signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,VAV2,Fc epsilon RI signaling pathway,FDR-DEG+Nominal-DEG
+quercetin,XDH,Caffeine metabolism,FDR-DEG+Nominal-DEG
+quercetin,XDH,Drug metabolism,FDR-DEG+Nominal-DEG
+quercetin,XDH,Peroxisome,FDR-DEG+Nominal-DEG
+quercetin,ZEB2,MicroRNAs in cancer,FDR-DEG+Nominal-DEG
+apigenin,DDIT3,Alzheimer disease,FDR-DEG+Nominal-DEG
+apigenin,DDIT3,Amyotrophic lateral sclerosis,FDR-DEG+Nominal-DEG
+apigenin,DDIT3,Apoptosis,FDR-DEG+Nominal-DEG
+apigenin,SLC2A1,Adipocytokine signaling pathway,DRG
+apigenin,SLC2A1,Bile secretion,DRG
+apigenin,SLC2A1,Central carbon metabolism in cancer,DRG
+caffeic acid,CDK2,Cell cycle,FDR-DEG+Nominal-DEG
+caffeic acid,CDK2,Cellular senescence,FDR-DEG+Nominal-DEG
+caffeic acid,CDK2,Cushing syndrome,FDR-DEG+Nominal-DEG
+caffeic acid,ELMO2,Bacterial invasion of epithelial cells,FDR-DEG+Nominal-DEG
+caffeic acid,ELMO2,Salmonella infection,FDR-DEG+Nominal-DEG
+caffeic acid,ELMO2,Shigellosis,FDR-DEG+Nominal-DEG
+caffeic acid,G6PD,Central carbon metabolism in cancer,DRG
+caffeic acid,G6PD,Diabetic cardiomyopathy,DRG
+caffeic acid,G6PD,Glutathione metabolism,DRG
+caffeic acid,PGD,Glutathione metabolism,DRG
+caffeic acid,PGD,Pentose phosphate pathway,DRG
+palmitic acid,ACSL4,Adipocytokine signaling pathway,DRG+Nominal-DEG
+palmitic acid,ACSL4,Fatty acid biosynthesis,DRG+Nominal-DEG
+palmitic acid,ACSL4,Fatty acid degradation,DRG+Nominal-DEG
+palmitic acid,ATF4,Adrenergic signaling in cardiomyocytes,DRG
+palmitic acid,ATF4,Alcoholism,DRG
+palmitic acid,ATF4,Aldosterone synthesis and secretion,DRG
+palmitic acid,CDX2,Gastric cancer,FDR-DEG+Nominal-DEG
+palmitic acid,DDIT3,Alzheimer disease,FDR-DEG+Nominal-DEG
+palmitic acid,DDIT3,Amyotrophic lateral sclerosis,FDR-DEG+Nominal-DEG
+palmitic acid,DDIT3,Apoptosis,FDR-DEG+Nominal-DEG
+palmitic acid,GYS1,AMPK signaling pathway,DRG
+palmitic acid,GYS1,Diabetic cardiomyopathy,DRG
+palmitic acid,GYS1,Glucagon signaling pathway,DRG
+palmitic acid,MAPK8,AGE-RAGE signaling pathway in diabetic complications,FDR-DEG+Nominal-DEG
+palmitic acid,MAPK8,Adipocytokine signaling pathway,FDR-DEG+Nominal-DEG
+palmitic acid,MAPK8,Alzheimer disease,FDR-DEG+Nominal-DEG
+palmitic acid,NCOA2,Estrogen signaling pathway,FDR-DEG+Nominal-DEG
+palmitic acid,NCOA2,Thyroid hormone signaling pathway,FDR-DEG+Nominal-DEG
+palmitic acid,NCOR1,Thyroid hormone signaling pathway,FDR-DEG+Nominal-DEG
+palmitic acid,NCOR1,Transcriptional misregulation in cancer,FDR-DEG+Nominal-DEG
+palmitic acid,NUP50,Amyotrophic lateral sclerosis,FDR-DEG+Nominal-DEG
+palmitic acid,NUP50,RNA transport,FDR-DEG+Nominal-DEG
+palmitic acid,PRDX1,Amoebiasis,DRG
+palmitic acid,PRDX1,Peroxisome,DRG
+palmitic acid,SEC22B,Legionellosis,FDR-DEG+Nominal-DEG
+palmitic acid,SEC22B,Phagosome,FDR-DEG+Nominal-DEG
+palmitic acid,SEC22B,SNARE interactions in vesicular transport,FDR-DEG+Nominal-DEG
+palmitic acid,SIRT1,AMPK signaling pathway,FDR-DEG+Nominal-DEG
+palmitic acid,SIRT1,Amphetamine addiction,FDR-DEG+Nominal-DEG
+palmitic acid,SIRT1,Cellular senescence,FDR-DEG+Nominal-DEG
+palmitic acid,SLC2A1,Adipocytokine signaling pathway,DRG
+palmitic acid,SLC2A1,Bile secretion,DRG
+palmitic acid,SLC2A1,Central carbon metabolism in cancer,DRG
+palmitic acid,TFAM,Apelin signaling pathway,FDR-DEG+Nominal-DEG
+palmitic acid,TFAM,Huntington disease,FDR-DEG+Nominal-DEG

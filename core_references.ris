@@ -1,0 +1,251 @@
+TY  - JOUR
+DO  - 10.1038/s41556-023-01091-2
+TI  - Actin cytoskeleton vulnerability to disulfide stress mediates disulfidptosis
+AU  - Liu Xiaoguang; AU  - Nie Litong; AU  - Zhang Yilei; AU  - Yan Yuelong; AU  - Wang Chao; AU  - Colic Medina
+JO  - Nature Cell Biology
+PY  - 2023
+VL  - 25
+IS  - 3
+SP  - 404
+ID  - R1_TB_Liu2023_disulfidptosis
+ER  - 
+
+TY  - JOUR
+DO  - 10.1038/s41556-023-01100-4
+TI  - Deadly actin collapse by disulfidptosis
+AU  - Machesky Laura M.
+JO  - Nature Cell Biology
+PY  - 2023
+VL  - 25
+IS  - 3
+SP  - 375
+ID  - R2_TB_Liu2023_commentary
+ER  - 
+
+TY  - JOUR
+DO  - 10.1136/bmj-2023-078378
+TI  - TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods
+AU  - Collins Gary S; AU  - Moons Karel G M; AU  - Dhiman Paula; AU  - Riley Richard D; AU  - Beam Andrew L; AU  - Van Calster Ben
+JO  - BMJ
+PY  - 2024
+VL  - 385
+IS  - 
+SP  - e078378
+ID  - R3_TRIPODplusAI_Collins2024
+ER  - 
+
+TY  - JOUR
+DO  - 10.7326/M18-1376
+TI  - PROBAST: A Tool to Assess the Risk of Bias and Applicability of Prediction Model Studies
+AU  - Moons KGM; AU  - Wolff RF; AU  - Riley RD;
+JO  - Annals of Internal Medicine
+PY  - 2019
+VL  - 170
+IS  - 1
+SP  - 51
+ID  - R5_PROBAST_Moons2019
+ER  - 
+
+TY  - JOUR
+DO  - 10.1111/j.2517-6161.1996.tb02080.x
+TI  - Regression Shrinkage and Selection Via the Lasso
+AU  - Tibshirani Robert
+JO  - Journal of the Royal Statistical Society Series B: Statistical Methodology
+PY  - 1996
+VL  - 58
+IS  - 1
+SP  - 267
+ID  - R9_LASSO_Tibshirani1996
+ER  - 
+
+TY  - JOUR
+DO  - 10.1023/A:1012487302797
+TI  - Gene Selection for Cancer Classification using Support Vector Machines
+AU  - Guyon Isabelle; AU  - Weston Jason; AU  - Barnhill Stephen; AU  - Vapnik Vladimir
+JO  - Machine Learning
+PY  - 2002
+VL  - 46
+IS  - 1-3
+SP  - 389
+ID  - R10_SVMRFE_Guyon2002
+ER  - 
+
+TY  - JOUR
+DO  - 10.1023/A:1010933404324
+TI  - Random Forests
+AU  - Breiman Leo
+JO  - Machine Learning
+PY  - 2001
+VL  - 45
+IS  - 1
+SP  - 5
+ID  - R11_RF_Breiman2001
+ER  - 
+
+TY  - JOUR
+DO  - 10.1093/nar/gkv007
+TI  - limma powers differential expression analyses for RNA-sequencing and microarray studies
+AU  - Ritchie Matthew E.; AU  - Phipson Belinda; AU  - Wu Di; AU  - Hu Yifang; AU  - Law Charity W.; AU  - Shi Wei
+JO  - Nucleic Acids Research
+PY  - 2015
+VL  - 43
+IS  - 7
+SP  - e47
+ID  - R12_limma_Ritchie2015
+ER  - 
+
+TY  - JOUR
+DO  - 10.1073/pnas.0506580102
+TI  - Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles
+AU  - Subramanian Aravind; AU  - Tamayo Pablo; AU  - Mootha Vamsi K.; AU  - Mukherjee Sayan; AU  - Ebert Benjamin L.; AU  - Gillette Michael A.
+JO  - Proceedings of the National Academy of Sciences
+PY  - 2005
+VL  - 102
+IS  - 43
+SP  - 15545
+ID  - R13_GSEA_Subramanian2005
+ER  - 
+
+TY  - JOUR
+DO  - 10.1038/nmeth.3337
+TI  - Robust enumeration of cell subsets from tissue expression profiles
+AU  - Newman Aaron M; AU  - Liu Chih Long; AU  - Green Michael R; AU  - Gentles Andrew J; AU  - Feng Weiguo; AU  - Xu Yue
+JO  - Nature Methods
+PY  - 2015
+VL  - 12
+IS  - 5
+SP  - 453
+ID  - R15_CIBERSORT_Newman2015
+ER  - 
+
+TY  - JOUR
+DO  - 10.1038/s41467-021-21246-9
+TI  - Inference and analysis of cell-cell communication using CellChat
+AU  - Jin S; AU  - Guerrero-Juarez CF; AU  - Zhang L;
+JO  - Nature Communications
+PY  - 2021
+VL  - 12
+IS  - 1
+SP  - 1088
+ID  - R16_CellChat_Jin2021
+ER  - 
+
+TY  - JOUR
+DO  - 10.1186/s13059-017-1382-0
+TI  - SCANPY: large-scale single-cell gene expression data analysis
+AU  - Wolf FA; AU  - Angerer P; AU  - Theis FJ
+JO  - Genome Biology
+PY  - 2018
+VL  - 19
+IS  - 1
+SP  - 15
+ID  - R17_scanpy_Wolf2018
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/jcc.21334
+TI  - AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading
+AU  - Trott Oleg; AU  - Olson Arthur J.
+JO  - Journal of Computational Chemistry
+PY  - 2009
+VL  - 31
+IS  - 2
+SP  - 455
+ID  - R18_Vina_Trott2010
+ER  - 
+
+TY  - JOUR
+DO  - 10.1136/bmj.n71
+TI  - The PRISMA 2020 statement: an updated guideline for reporting systematic reviews
+AU  - Page Matthew J; AU  - McKenzie Joanne E; AU  - Bossuyt Patrick M; AU  - Boutron Isabelle; AU  - Hoffmann Tammy C; AU  - Mulrow Cynthia D
+JO  - BMJ
+PY  - 2021
+VL  - 
+IS  - 
+SP  - n71
+ID  - PRISMA2020_Page2021
+ER  - 
+
+TY  - JOUR
+DO  - 10.1093/bioinformatics/btab520
+TI  - Ontoclick: a web browser extension to facilitate biomedical knowledge curation
+AU  - Xu Anthony; AU  - Venkateswaran Aravind; AU  - Zhou Lianguizi; AU  - Zankl Andreas
+JO  - Bioinformatics
+PY  - 2021
+VL  - 38
+IS  - 1
+SP  - 301
+ID  - fgsea_Korotkevich2021
+ER  - 
+
+TY  - JOUR
+DO  - 10.2174/0113862073273655231213070619
+TI  - Disulfidptosis-related Protein RPN1 may be a Novel Anti-osteoporosis Target of Kaempferol
+AU  - Pan C; AU  - Zhang C; AU  - Lin Z;
+JO  - Combinatorial Chemistry & High Throughput Screening
+PY  - 2024
+ID  - D1_Pan2024_RPN1_kaempferol
+ER  - 
+
+TY  - JOUR
+DO  - 10.18632/aging.205813
+TI  - RNA sequencing-based approaches to identifying disulfidptosis-related diagnostic clusters and immune landscapes in osteoporosis
+AU  - Zhang P; AU  - Li B; AU  - Chen H;
+JO  - Aging (Albany NY)
+PY  - 2024
+ID  - D2_Zhang2024_RNAseq_clusters
+ER  - 
+
+TY  - JOUR
+DO  - 10.3389/fgene.2026.1794298
+TI  - BHLHE41-SLC7A11 transcriptional axis and chromatin remodeling signatures in osteogenic-lineage disulfidptosis-like stress in osteoporosis
+AU  - Zhao X; AU  - Xue W; AU  - Gao J;
+JO  - Frontiers in Genetics
+PY  - 2026
+ID  - D3_Zhao2026_BHLHE41_SLC7A11
+ER  - 
+
+TY  - JOUR
+DO  - 10.1016/j.heliyon.2024.e36570
+TI  - PGRMC2 influences the onset of postmenopausal osteoporosis through disulfidptosis in monocytes: Evidence from experimental validation and Mendelian randomization
+AU  - Wang Y; AU  - Xiao H; AU  - Chen Y;
+JO  - Heliyon
+PY  - 2024
+ID  - D4_Wang2024_PGRMC2_PMOP
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/advs.78203
+TI  - Age-Related Lamin B1 Deficiency Activates SLC7A11-Dependent Disulfidptosis to Impair Osteogenesis via Intercepting Mitochondrial Fission
+AU  - Yu W; AU  - Li Q; AU  - Zhang W;
+JO  - Advanced Science
+PY  - 2026
+ID  - D5_Yu2026_LMNB1_SLC7A11
+ER  - 
+
+TY  - JOUR
+DO  - 10.1002/jcp.70100
+TI  - Bidirectional Regulatory Mechanisms of Disulfidptosis Govern Precision Targeting in Degenerative Bone Diseases and Osteosarcoma
+AU  - Zhao X; AU  - Wu S; AU  - Su X;
+JO  - Journal of Cellular Physiology
+PY  - 2025
+ID  - D6_Zhao2025_review_bone
+ER  - 
+
+TY  - JOUR
+DO  - 10.1038/s41420-025-02633-3
+TI  - Emerging regulated cell death mechanisms in bone remodeling: decoding ferroptosis, cuproptosis, disulfidptosis, and PANoptosis as therapeutic targets for skeletal disorders
+AU  - Hu HT; AU  - Zhang ZY; AU  - Luo Z;
+JO  - Cell Death & Disease
+PY  - 2025
+ID  - D7_Hu2025_review_RCD
+ER  - 
+
+TY  - JOUR
+DO  - 10.3389/fimmu.2025.1647931
+TI  - Immunometabolic regulation of disulfidptosis in orthopedic diseases: mechanistic heterogeneity and therapeutic targets
+AU  - Zhao X; AU  - Zhang C; AU  - Qu L;
+JO  - Frontiers in Immunology
+PY  - 2025
+ID  - D8_Zhao2025_review_immunometabolic
+ER  - 

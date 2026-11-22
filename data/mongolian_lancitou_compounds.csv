@@ -1,0 +1,10 @@
+name_cn,name_en,compound_type,pubchem_cid,molecular_formula,smiles,ctd_chemical_id,cas_rn,evidence_note
+槲皮素,quercetin,单体,5280343.0,C15H10O7,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,D011794,117-39-5,蓝刺头文献中明确提及的活性成分
+"芹菜素（4',5,7-三羟基黄酮）",apigenin,单体,5280443.0,C15H10O5,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,D047310,520-36-5,蓝刺头文献中明确提及的活性成分
+咖啡酸,caffeic acid,单体,689043.0,C9H8O4,C1=CC(=C(C=C1C=CC(=O)O)O)O,C040048,331-39-5,蓝刺头文献中明确提及的活性成分
+绿原酸,chlorogenic acid,单体,1794427.0,C16H18O9,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O,D002726,327-97-9,蓝刺头文献中明确提及的活性成分
+正十六烷酸,palmitic acid,单体,985.0,C16H32O2,CCCCCCCCCCCCCCCC(=O)O,D019308,57-10-3,蓝刺头文献中明确提及的活性成分
+蓝刺头总酚酸/水提物,Lancitou total phenolic acids / aqueous extract,混合物,,,,,,来自蓝刺头整体/成分集合的文献证据，非单一化合物
+蓝刺头乙醇提取物,Lancitou ethanol extract,混合物,,,,,,来自蓝刺头整体/成分集合的文献证据，非单一化合物
+蓝刺头含药血清,Lancitou medicated serum,混合物,,,,,,来自蓝刺头整体/成分集合的文献证据，非单一化合物
+蓝刺头主要成分（网络药理学筛选）,Lancitou major constituents (screened),成分集合,,,,,,来自蓝刺头整体/成分集合的文献证据，非单一化合物

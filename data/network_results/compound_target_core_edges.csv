@@ -1,0 +1,120 @@
+compound_en,target_symbol,evidence_level,target_class
+quercetin,ACTB,B,DRG
+quercetin,ACY1,B,FDR-DEG+Nominal-DEG
+quercetin,ANAPC1,B,FDR-DEG+Nominal-DEG
+quercetin,AOC3,B,FDR-DEG+Nominal-DEG
+quercetin,ATF4,B,DRG
+quercetin,BAK1,B,DRG
+quercetin,BIK,B,FDR-DEG+Nominal-DEG
+quercetin,BMP4,B,FDR-DEG+Nominal-DEG
+quercetin,CCT5,B,FDR-DEG+Nominal-DEG
+quercetin,CD2AP,B,DRG
+quercetin,CDK2,B,FDR-DEG+Nominal-DEG
+quercetin,CEL,B,FDR-DEG+Nominal-DEG
+quercetin,CHD1L,B,FDR-DEG+Nominal-DEG
+quercetin,CNTRL,B,FDR-DEG+Nominal-DEG
+quercetin,DBN1,B,DRG
+quercetin,DDIT3,B,FDR-DEG+Nominal-DEG
+quercetin,DSTN,B,DRG
+quercetin,EI24,B,FDR-DEG+Nominal-DEG
+quercetin,FBXW7,B,FDR-DEG+Nominal-DEG
+quercetin,FLNA,B,DRG+Nominal-DEG
+quercetin,FLNB,B,DRG
+quercetin,FXYD2,B,FDR-DEG+Nominal-DEG
+quercetin,G6PD,B,DRG
+quercetin,GAL3ST1,B,FDR-DEG+Nominal-DEG
+quercetin,GYS1,B,DRG
+quercetin,IL1R2,B,FDR-DEG+Nominal-DEG
+quercetin,IQGAP1,B,DRG
+quercetin,ITPR1,B,FDR-DEG+Nominal-DEG
+quercetin,KIFAP3,B,FDR-DEG+Nominal-DEG
+quercetin,LACTB2,B,FDR-DEG+Nominal-DEG
+quercetin,MAP3K1,B,Hub+FDR-DEG+Nominal-DEG
+quercetin,MAP3K3,B,FDR-DEG+Nominal-DEG
+quercetin,MAPK8,B,FDR-DEG+Nominal-DEG
+quercetin,MCUB,B,FDR-DEG+Nominal-DEG
+quercetin,MPZ,B,FDR-DEG+Nominal-DEG
+quercetin,MYH9,B,DRG
+quercetin,NAA80,B,FDR-DEG+Nominal-DEG
+quercetin,NCKAP1,B,DRG
+quercetin,NCOA2,B,FDR-DEG+Nominal-DEG
+quercetin,NCOR1,B,FDR-DEG+Nominal-DEG
+quercetin,NDUFS1,B,DRG
+quercetin,NES,B,FDR-DEG+Nominal-DEG
+quercetin,NIF3L1,B,FDR-DEG+Nominal-DEG
+quercetin,NUBPL,B,DRG
+quercetin,NUMB,B,FDR-DEG+Nominal-DEG
+quercetin,NUP50,B,FDR-DEG+Nominal-DEG
+quercetin,OSBPL8,B,FDR-DEG+Nominal-DEG
+quercetin,OSTF1,B,Hub+FDR-DEG+Nominal-DEG
+quercetin,PAK1,B,FDR-DEG+Nominal-DEG
+quercetin,PGD,B,DRG
+quercetin,PLAGL1,B,FDR-DEG+Nominal-DEG
+quercetin,PMAIP1,B,FDR-DEG+Nominal-DEG
+quercetin,PPP3CA,B,FDR-DEG+Nominal-DEG
+quercetin,PRDX1,B,DRG
+quercetin,QPCT,B,FDR-DEG+Nominal-DEG
+quercetin,RAB11FIP1,B,FDR-DEG+Nominal-DEG
+quercetin,RAB8B,B,FDR-DEG+Nominal-DEG
+quercetin,RBM12,B,FDR-DEG+Nominal-DEG
+quercetin,RECK,B,FDR-DEG+Nominal-DEG
+quercetin,RIN2,B,FDR-DEG+Nominal-DEG
+quercetin,RWDD2B,B,FDR-DEG+Nominal-DEG
+quercetin,S100A4,B,FDR-DEG+Nominal-DEG
+quercetin,SIRT1,B,FDR-DEG+Nominal-DEG
+quercetin,SLC26A2,B,DRG
+quercetin,SLC2A1,B,DRG
+quercetin,SLC2A3,B,DRG+Nominal-DEG
+quercetin,SLC3A2,B,DRG
+quercetin,SLC7A11,B,DRG
+quercetin,SOAT1,B,FDR-DEG+Nominal-DEG
+quercetin,TALDO1,B,DRG
+quercetin,TFAM,B,FDR-DEG+Nominal-DEG
+quercetin,TKT,B,DRG
+quercetin,TM7SF3,B,Hub+FDR-DEG+Nominal-DEG
+quercetin,TRAP1,B,FDR-DEG+Nominal-DEG
+quercetin,TRIOBP,B,FDR-DEG+Nominal-DEG
+quercetin,TSPYL4,B,FDR-DEG+Nominal-DEG
+quercetin,TXNDC16,B,Hub+FDR-DEG+Nominal-DEG
+quercetin,TXNRD1,B,DRG
+quercetin,VAV2,B,FDR-DEG+Nominal-DEG
+quercetin,XDH,B,FDR-DEG+Nominal-DEG
+quercetin,ZEB2,B,FDR-DEG+Nominal-DEG
+quercetin,ZSCAN31,B,FDR-DEG+Nominal-DEG
+apigenin,DDIT3,B,FDR-DEG+Nominal-DEG
+apigenin,SLC2A1,B,DRG
+apigenin,SLC2A3,B,DRG+Nominal-DEG
+caffeic acid,CDK2,B,FDR-DEG+Nominal-DEG
+caffeic acid,ELMO2,B,FDR-DEG+Nominal-DEG
+caffeic acid,G6PD,B,DRG
+caffeic acid,PGD,B,DRG
+caffeic acid,PTX3,B,FDR-DEG+Nominal-DEG
+palmitic acid,ACSL4,B,DRG+Nominal-DEG
+palmitic acid,AHDC1,B,FDR-DEG+Nominal-DEG
+palmitic acid,ASXL2,B,FDR-DEG+Nominal-DEG
+palmitic acid,ATF4,B,DRG
+palmitic acid,CDX2,B,FDR-DEG+Nominal-DEG
+palmitic acid,CYP4F12,B,FDR-DEG+Nominal-DEG
+palmitic acid,DBN1,B,DRG
+palmitic acid,DDIT3,B,FDR-DEG+Nominal-DEG
+palmitic acid,EGFL7,B,FDR-DEG+Nominal-DEG
+palmitic acid,GLT8D2,B,FDR-DEG+Nominal-DEG
+palmitic acid,GMEB1,B,FDR-DEG+Nominal-DEG
+palmitic acid,GYS1,B,DRG
+palmitic acid,HNRNPUL2,B,FDR-DEG+Nominal-DEG
+palmitic acid,ITPRID2,B,FDR-DEG+Nominal-DEG
+palmitic acid,MAPK8,B,FDR-DEG+Nominal-DEG
+palmitic acid,MSL3,B,FDR-DEG+Nominal-DEG
+palmitic acid,NCOA2,B,FDR-DEG+Nominal-DEG
+palmitic acid,NCOR1,B,FDR-DEG+Nominal-DEG
+palmitic acid,NUP50,B,FDR-DEG+Nominal-DEG
+palmitic acid,PCNT,B,FDR-DEG+Nominal-DEG
+palmitic acid,PRDM11,B,FDR-DEG+Nominal-DEG
+palmitic acid,PRDX1,B,DRG
+palmitic acid,PTX3,B,FDR-DEG+Nominal-DEG
+palmitic acid,SEC22B,B,FDR-DEG+Nominal-DEG
+palmitic acid,SIRT1,B,FDR-DEG+Nominal-DEG
+palmitic acid,SLC2A1,B,DRG
+palmitic acid,SLC2A3,B,DRG+Nominal-DEG
+palmitic acid,SLC35D2,B,Hub+FDR-DEG+Nominal-DEG
+palmitic acid,TFAM,B,FDR-DEG+Nominal-DEG

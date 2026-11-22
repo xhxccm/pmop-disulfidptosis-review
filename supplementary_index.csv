@@ -1,0 +1,91 @@
+﻿补充编号,类别,文件路径,说明
+Fig S01,富集分析,enrichment_results_GSE56815/GSEA_DRG.png,ORA/GSEA 结果（GSE56815）
+Fig S02,富集分析,enrichment_results_GSE56815/GSEA_GO_BP.png,ORA/GSEA 结果（GSE56815）
+Fig S03,富集分析,enrichment_results_GSE56815/GSEA_GO_CC.png,ORA/GSEA 结果（GSE56815）
+Fig S04,富集分析,enrichment_results_GSE56815/GSEA_GO_MF.png,ORA/GSEA 结果（GSE56815）
+Fig S05,富集分析,enrichment_results_GSE56815/GSEA_KEGG.png,ORA/GSEA 结果（GSE56815）
+Fig S06,富集分析,enrichment_results_GSE56815/ORA_DRG_EXTENDED_53_GO_BP.png,ORA/GSEA 结果（GSE56815）
+Fig S07,富集分析,enrichment_results_GSE56815/ORA_DRG_EXTENDED_53_GO_CC.png,ORA/GSEA 结果（GSE56815）
+Fig S08,富集分析,enrichment_results_GSE56815/ORA_DRG_EXTENDED_53_GO_MF.png,ORA/GSEA 结果（GSE56815）
+Fig S09,富集分析,enrichment_results_GSE56815/ORA_DRG_EXTENDED_53_KEGG.png,ORA/GSEA 结果（GSE56815）
+Fig S10,富集分析,enrichment_results_GSE56815/ORA_DRG_EXTENDED_IN_MATRIX_GO_BP.png,ORA/GSEA 结果（GSE56815）
+Fig S11,富集分析,enrichment_results_GSE56815/ORA_DRG_EXTENDED_IN_MATRIX_GO_CC.png,ORA/GSEA 结果（GSE56815）
+Fig S12,富集分析,enrichment_results_GSE56815/ORA_DRG_EXTENDED_IN_MATRIX_GO_MF.png,ORA/GSEA 结果（GSE56815）
+Fig S13,富集分析,enrichment_results_GSE56815/ORA_DRG_EXTENDED_IN_MATRIX_KEGG.png,ORA/GSEA 结果（GSE56815）
+Fig S14,富集分析,enrichment_results_GSE56815/ORA_DRG_Liu2023_28_GO_BP.png,ORA/GSEA 结果（GSE56815）
+Fig S15,富集分析,enrichment_results_GSE56815/ORA_DRG_Liu2023_28_GO_CC.png,ORA/GSEA 结果（GSE56815）
+Fig S16,富集分析,enrichment_results_GSE56815/ORA_DRG_Liu2023_28_GO_MF.png,ORA/GSEA 结果（GSE56815）
+Fig S17,富集分析,enrichment_results_GSE56815/ORA_DRG_Liu2023_28_KEGG.png,ORA/GSEA 结果（GSE56815）
+Fig S18,富集分析,enrichment_results_GSE56815/ORA_DRG_core10_GO_BP.png,ORA/GSEA 结果（GSE56815）
+Fig S19,富集分析,enrichment_results_GSE56815/ORA_DRG_core10_GO_CC.png,ORA/GSEA 结果（GSE56815）
+Fig S20,富集分析,enrichment_results_GSE56815/ORA_DRG_core10_GO_MF.png,ORA/GSEA 结果（GSE56815）
+Fig S21,富集分析,enrichment_results_GSE56815/ORA_DRG_core10_KEGG.png,ORA/GSEA 结果（GSE56815）
+Fig S22,富集分析,enrichment_results_GSE56815/ORA_DRGs_DEGs_intersection_GO_BP.png,ORA/GSEA 结果（GSE56815）
+Fig S23,富集分析,enrichment_results_GSE56815/ORA_DRGs_DEGs_intersection_GO_CC.png,ORA/GSEA 结果（GSE56815）
+Fig S24,富集分析,enrichment_results_GSE56815/ORA_DRGs_DEGs_intersection_GO_MF.png,ORA/GSEA 结果（GSE56815）
+Fig S25,富集分析,enrichment_results_GSE56815/ORA_DRGs_DEGs_intersection_KEGG.png,ORA/GSEA 结果（GSE56815）
+Fig S26,富集分析,enrichment_results_GSE56815/ORA_FDR_DEGs_GO_BP.png,ORA/GSEA 结果（GSE56815）
+Fig S27,富集分析,enrichment_results_GSE56815/ORA_FDR_DEGs_GO_CC.png,ORA/GSEA 结果（GSE56815）
+Fig S28,富集分析,enrichment_results_GSE56815/ORA_FDR_DEGs_GO_MF.png,ORA/GSEA 结果（GSE56815）
+Fig S29,富集分析,enrichment_results_GSE56815/ORA_FDR_DEGs_KEGG.png,ORA/GSEA 结果（GSE56815）
+Fig S30,富集分析,enrichment_results_GSE56815/ORA_nominal_DEGs_P005_GO_BP.png,ORA/GSEA 结果（GSE56815）
+Fig S31,富集分析,enrichment_results_GSE56815/ORA_nominal_DEGs_P005_GO_CC.png,ORA/GSEA 结果（GSE56815）
+Fig S32,富集分析,enrichment_results_GSE56815/ORA_nominal_DEGs_P005_GO_MF.png,ORA/GSEA 结果（GSE56815）
+Fig S33,富集分析,enrichment_results_GSE56815/ORA_nominal_DEGs_P005_KEGG.png,ORA/GSEA 结果（GSE56815）
+Fig S34,R原生交叉验证,figures/R_native/Enrichment_GSEA_GO_BP_R.png,R 实现独立复核图
+Fig S35,R原生交叉验证,figures/R_native/Enrichment_GSEA_GO_CC_R.png,R 实现独立复核图
+Fig S36,R原生交叉验证,figures/R_native/Enrichment_GSEA_GO_MF_R.png,R 实现独立复核图
+Fig S37,R原生交叉验证,figures/R_native/Enrichment_GSEA_KEGG_R.png,R 实现独立复核图
+Fig S38,R原生交叉验证,figures/R_native/Enrichment_ORA_EXTENDED_GO_BP_R.png,R 实现独立复核图
+Fig S39,R原生交叉验证,figures/R_native/Enrichment_ORA_EXTENDED_GO_CC_R.png,R 实现独立复核图
+Fig S40,R原生交叉验证,figures/R_native/Enrichment_ORA_EXTENDED_GO_MF_R.png,R 实现独立复核图
+Fig S41,R原生交叉验证,figures/R_native/Enrichment_ORA_EXTENDED_KEGG_R.png,R 实现独立复核图
+Fig S42,R原生交叉验证,figures/R_native/Fig2A_volcano_R.png,R 实现独立复核图
+Fig S43,R原生交叉验证,figures/R_native/Fig2B_DEG_heatmap_R.png,R 实现独立复核图
+Fig S44,R原生交叉验证,figures/R_native/Fig2C_DRG_FDRdeg_venn_R.png,R 实现独立复核图
+Fig S45,R原生交叉验证,figures/R_native/Fig2C_DRG_Nominaldeg_venn_R.png,R 实现独立复核图
+Fig S46,R原生交叉验证,figures/R_native/Fig3A_GLMNET_CV_curve_R.png,R 实现独立复核图
+Fig S47,R原生交叉验证,figures/R_native/Fig3A_GLMNET_ROC_R.png,R 实现独立复核图
+Fig S48,R原生交叉验证,figures/R_native/Fig3A_GLMNET_coefficient_path_R.png,R 实现独立复核图
+Fig S49,R原生交叉验证,figures/R_native/Fig3A_GLMNET_top_coefficients_R.png,R 实现独立复核图
+Fig S50,R原生交叉验证,figures/R_native/Fig3B_SVMRFE_importance_R.png,R 实现独立复核图
+Fig S51,R原生交叉验证,figures/R_native/Fig3C_RF_importance_R.png,R 实现独立复核图
+Fig S52,R原生交叉验证,figures/R_native/Fig3D_three_algorithm_venn_R.png,R 实现独立复核图
+Fig S53,R原生交叉验证,figures/R_native/Fig4A_B_ROC_R.png,R 实现独立复核图
+Fig S54,R原生交叉验证,figures/R_native/Fig4C_Nomogram_R.png,R 实现独立复核图
+Fig S55,R原生交叉验证,figures/R_native/Fig5A_immune_stacked_R.png,R 实现独立复核图
+Fig S56,R原生交叉验证,figures/R_native/Fig5B_immune_correlation_R.png,R 实现独立复核图
+Fig S57,R原生交叉验证,figures/R_native/Fig6C_docking_bar_R.png,R 实现独立复核图
+Fig S58,R原生交叉验证,figures/R_native/GSEA_fgsea_GO_BP_enrichment_R.png,R 实现独立复核图
+Fig S59,R原生交叉验证,figures/R_native/GSEA_fgsea_GO_CC_enrichment_R.png,R 实现独立复核图
+Fig S60,R原生交叉验证,figures/R_native/GSEA_fgsea_GO_MF_enrichment_R.png,R 实现独立复核图
+Fig S61,R原生交叉验证,figures/R_native/GSEA_fgsea_KEGG_enrichment_R.png,R 实现独立复核图
+Fig S62,诊断模型,diagnostic_results/Calibration.png,Nomogram/Calibration/DCA/ROC细节
+Fig S63,诊断模型,diagnostic_results/DCA.png,Nomogram/Calibration/DCA/ROC细节
+Fig S64,诊断模型,diagnostic_results/Nomogram.png,Nomogram/Calibration/DCA/ROC细节
+Fig S65,诊断模型,diagnostic_results/ROC_regularization_comparison.png,Nomogram/Calibration/DCA/ROC细节
+Fig S66,诊断模型,diagnostic_results/ROC_training_external.png,Nomogram/Calibration/DCA/ROC细节
+Fig S67,单细胞,scrna/results/CellChat_lite_communication.png,Hub基因单细胞表达/细胞通讯
+Fig S68,单细胞,scrna/results/HubGene_scRNA_heatmap.png,Hub基因单细胞表达/细胞通讯
+Fig S69,网络药理学,network_results/Compound_target_network.png,成分-靶点网络/通路网络
+Fig S70,网络药理学,network_results/Compound_target_pathway_network.png,成分-靶点网络/通路网络
+Fig S71,主图源图,figures/Fig1A_workflow.png,正文主图的原始版本/组合源
+Fig S72,主图源图,figures/Fig1B_disulfidptosis_mechanism.png,正文主图的原始版本/组合源
+Fig S73,主图源图,figures/Fig2A_volcano.png,正文主图的原始版本/组合源
+Fig S74,主图源图,figures/Fig2B_DEG_heatmap.png,正文主图的原始版本/组合源
+Fig S75,主图源图,figures/Fig2C_DRG_DEG_venn.png,正文主图的原始版本/组合源
+Fig S76,主图源图,figures/Fig3A_LASSO_coefficient_paths.png,正文主图的原始版本/组合源
+Fig S77,主图源图,figures/Fig3A_LASSO_coefficients.png,正文主图的原始版本/组合源
+Fig S78,主图源图,figures/Fig3B_SVMRFE_importance.png,正文主图的原始版本/组合源
+Fig S79,主图源图,figures/Fig3C_RF_importance.png,正文主图的原始版本/组合源
+Fig S80,主图源图,figures/Fig3D_three_algorithm_venn.png,正文主图的原始版本/组合源
+Fig S81,主图源图,figures/Fig4A_ROC_training.png,正文主图的原始版本/组合源
+Fig S82,主图源图,figures/Fig4B_ROC_validation.png,正文主图的原始版本/组合源
+Fig S83,主图源图,figures/Fig4C_Nomogram.png,正文主图的原始版本/组合源
+Fig S84,主图源图,figures/Fig4C_Nomogram_points.png,正文主图的原始版本/组合源
+Fig S85,主图源图,figures/Fig5A_immune_stacked.png,正文主图的原始版本/组合源
+Fig S86,主图源图,figures/Fig5B_immune_correlation.png,正文主图的原始版本/组合源
+Fig S87,主图源图,figures/Fig6A_compound_target_network.png,正文主图的原始版本/组合源
+Fig S88,主图源图,figures/Fig6A_compound_target_network_full.png,正文主图的原始版本/组合源
+Fig S89,主图源图,figures/Fig6B_binding_mode_2D.png,正文主图的原始版本/组合源
+Fig S90,主图源图,figures/Fig6C_docking_bar.png,正文主图的原始版本/组合源

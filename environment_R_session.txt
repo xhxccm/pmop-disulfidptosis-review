@@ -1,0 +1,11 @@
+R: R version 4.4.1 (2024-06-14 ucrt) 
+limma          3.62.2
+GEOquery       2.74.0
+ggplot2        4.0.3
+glmnet         4.1.10
+rms            8.1.1
+pROC           1.19.0.1
+pheatmap       1.0.13
+VennDiagram    1.8.2
+corrplot       0.95
+fgsea          1.32.4
